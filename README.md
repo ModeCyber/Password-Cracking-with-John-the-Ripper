@@ -1,10 +1,10 @@
-#Password Cracking with John the Ripper
+# Password Cracking with John the Ripper
 
-##Introduction
+## Introduction
 This project demonstrates the use of John the Ripper, a powerful password cracking tool, to understand the importance of strong passwords. 
 By generating password hashes and attempting to crack them, we highlight the vulnerabilities associated with weak passwords and emphasize best practices for password security.
 
-##Tools needed
+## Tools needed
 A computer with internet access (I used Linux)
 Install John the Ripper
 Install mkpasswd
@@ -35,14 +35,14 @@ View Cracked Passwords:
 Once the process is complete, view the cracked passwords with:
 john --show hashes.txt
 
-##Findings
+## Findings
 Highlight which passwords were easier to crack and why.
 
-##Recommendations
+## Recommendations
 Use complex passwords with a mix of characters.
 Avoid common words and easily guessable information.
 
-##Conclusion
+## Conclusion
 Strong passwords are crucial for security. This project showed how easily weak passwords can be cracked, emphasizing the need for robust password practices.
 
 [Password Cracking with John the Ripper.pdf](https://github.com/user-attachments/files/15960155/Password.Cracking.with.John.the.Ripper.pdf)
